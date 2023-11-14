@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="REINMARTModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Bag">
+          <Key>
+            <PropertyRef Name="bagId" />
+          </Key>
+          <Property Name="bagId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+        </EntityType>
+        <EntityType Name="placeBid">
+          <Key>
+            <PropertyRef Name="bidId" />
+          </Key>
+          <Property Name="bidId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="BidDate" Type="datetime" />
+          <Property Name="HighestBid" Type="varchar" MaxLength="255" />
+          <Property Name="userId" Type="int" />
+          <Property Name="productId" Type="int" />
+        </EntityType>
+        <EntityType Name="product">
+          <Key>
+            <PropertyRef Name="productId" />
+          </Key>
+          <Property Name="productId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="productName" Type="varchar" MaxLength="255" />
+          <Property Name="StartingPrice" Type="varchar" MaxLength="255" />
+          <Property Name="Description" Type="varchar" MaxLength="255" />
+          <Property Name="image" Type="varchar" MaxLength="255" />
+          <Property Name="status" Type="varchar" MaxLength="255" />
+          <Property Name="EndBidTime" Type="datetime" />
+        </EntityType>
+        <EntityType Name="users">
+          <Key>
+            <PropertyRef Name="userId" />
+          </Key>
+          <Property Name="userId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="userName" Type="varchar" MaxLength="255" />
+          <Property Name="userMail" Type="varchar" MaxLength="255" />
+          <Property Name="status" Type="varchar" MaxLength="255" />
+          <Property Name="userPassword" Type="varchar" MaxLength="255" />
+          <Property Name="userImage" Type="varchar" MaxLength="255" />
+          <Property Name="bagId" Type="int" />
+        </EntityType>
+        <Association Name="FK__placeBid__produc__0CBAE877">
+          <End Role="product" Type="Self.product" Multiplicity="0..1" />
+          <End Role="placeBid" Type="Self.placeBid" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="product">
+              <PropertyRef Name="productId" />
+            </Principal>
+            <Dependent Role="placeBid">
+              <PropertyRef Name="productId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__placeBid__userId__0DAF0CB0">
+          <End Role="users" Type="Self.users" Multiplicity="0..1" />
+          <End Role="placeBid" Type="Self.placeBid" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="users">
+              <PropertyRef Name="userId" />
+            </Principal>
+            <Dependent Role="placeBid">
+              <PropertyRef Name="userId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__users__bagId__0EA330E9">
+          <End Role="Bag" Type="Self.Bag" Multiplicity="0..1" />
+          <End Role="users" Type="Self.users" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bag">
+              <PropertyRef Name="bagId" />
+            </Principal>
+            <Dependent Role="users">
+              <PropertyRef Name="bagId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="REINMARTModelStoreContainer">
+          <EntitySet Name="Bag" EntityType="Self.Bag" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="placeBid" EntityType="Self.placeBid" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="product" EntityType="Self.product" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="users" EntityType="Self.users" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__placeBid__produc__0CBAE877" Association="Self.FK__placeBid__produc__0CBAE877">
+            <End Role="product" EntitySet="product" />
+            <End Role="placeBid" EntitySet="placeBid" />
+          </AssociationSet>
+          <AssociationSet Name="FK__placeBid__userId__0DAF0CB0" Association="Self.FK__placeBid__userId__0DAF0CB0">
+            <End Role="users" EntitySet="users" />
+            <End Role="placeBid" EntitySet="placeBid" />
+          </AssociationSet>
+          <AssociationSet Name="FK__users__bagId__0EA330E9" Association="Self.FK__users__bagId__0EA330E9">
+            <End Role="Bag" EntitySet="Bag" />
+            <End Role="users" EntitySet="users" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="REINMARTModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Bag">
+          <Key>
+            <PropertyRef Name="bagId" />
+          </Key>
+          <Property Name="bagId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <NavigationProperty Name="users" Relationship="Self.FK__users__bagId__0EA330E9" FromRole="Bag" ToRole="users" />
+        </EntityType>
+        <EntityType Name="placeBid">
+          <Key>
+            <PropertyRef Name="bidId" />
+          </Key>
+          <Property Name="bidId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="BidDate" Type="DateTime" Precision="3" />
+          <Property Name="HighestBid" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="userId" Type="Int32" />
+          <Property Name="productId" Type="Int32" />
+          <NavigationProperty Name="product" Relationship="Self.FK__placeBid__produc__0CBAE877" FromRole="placeBid" ToRole="product" />
+          <NavigationProperty Name="user" Relationship="Self.FK__placeBid__userId__0DAF0CB0" FromRole="placeBid" ToRole="users" />
+        </EntityType>
+        <EntityType Name="product">
+          <Key>
+            <PropertyRef Name="productId" />
+          </Key>
+          <Property Name="productId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="productName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="StartingPrice" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="Description" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="image" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="status" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="EndBidTime" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="placeBids" Relationship="Self.FK__placeBid__produc__0CBAE877" FromRole="product" ToRole="placeBid" />
+        </EntityType>
+        <EntityType Name="user">
+          <Key>
+            <PropertyRef Name="userId" />
+          </Key>
+          <Property Name="userId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="userName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="userMail" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="status" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="userPassword" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="userImage" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="bagId" Type="Int32" />
+          <NavigationProperty Name="Bag" Relationship="Self.FK__users__bagId__0EA330E9" FromRole="users" ToRole="Bag" />
+          <NavigationProperty Name="placeBids" Relationship="Self.FK__placeBid__userId__0DAF0CB0" FromRole="users" ToRole="placeBid" />
+        </EntityType>
+        <Association Name="FK__users__bagId__0EA330E9">
+          <End Role="Bag" Type="Self.Bag" Multiplicity="0..1" />
+          <End Role="users" Type="Self.user" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bag">
+              <PropertyRef Name="bagId" />
+            </Principal>
+            <Dependent Role="users">
+              <PropertyRef Name="bagId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__placeBid__produc__0CBAE877">
+          <End Role="product" Type="Self.product" Multiplicity="0..1" />
+          <End Role="placeBid" Type="Self.placeBid" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="product">
+              <PropertyRef Name="productId" />
+            </Principal>
+            <Dependent Role="placeBid">
+              <PropertyRef Name="productId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__placeBid__userId__0DAF0CB0">
+          <End Role="users" Type="Self.user" Multiplicity="0..1" />
+          <End Role="placeBid" Type="Self.placeBid" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="users">
+              <PropertyRef Name="userId" />
+            </Principal>
+            <Dependent Role="placeBid">
+              <PropertyRef Name="userId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="REINMARTEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Bags" EntityType="Self.Bag" />
+          <EntitySet Name="placeBids" EntityType="Self.placeBid" />
+          <EntitySet Name="products" EntityType="Self.product" />
+          <EntitySet Name="users" EntityType="Self.user" />
+          <AssociationSet Name="FK__users__bagId__0EA330E9" Association="Self.FK__users__bagId__0EA330E9">
+            <End Role="Bag" EntitySet="Bags" />
+            <End Role="users" EntitySet="users" />
+          </AssociationSet>
+          <AssociationSet Name="FK__placeBid__produc__0CBAE877" Association="Self.FK__placeBid__produc__0CBAE877">
+            <End Role="product" EntitySet="products" />
+            <End Role="placeBid" EntitySet="placeBids" />
+          </AssociationSet>
+          <AssociationSet Name="FK__placeBid__userId__0DAF0CB0" Association="Self.FK__placeBid__userId__0DAF0CB0">
+            <End Role="users" EntitySet="users" />
+            <End Role="placeBid" EntitySet="placeBids" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="REINMARTModelStoreContainer" CdmEntityContainer="REINMARTEntities">
+          <EntitySetMapping Name="Bags">
+            <EntityTypeMapping TypeName="REINMARTModel.Bag">
+              <MappingFragment StoreEntitySet="Bag">
+                <ScalarProperty Name="bagId" ColumnName="bagId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="placeBids">
+            <EntityTypeMapping TypeName="REINMARTModel.placeBid">
+              <MappingFragment StoreEntitySet="placeBid">
+                <ScalarProperty Name="bidId" ColumnName="bidId" />
+                <ScalarProperty Name="BidDate" ColumnName="BidDate" />
+                <ScalarProperty Name="HighestBid" ColumnName="HighestBid" />
+                <ScalarProperty Name="userId" ColumnName="userId" />
+                <ScalarProperty Name="productId" ColumnName="productId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="products">
+            <EntityTypeMapping TypeName="REINMARTModel.product">
+              <MappingFragment StoreEntitySet="product">
+                <ScalarProperty Name="productId" ColumnName="productId" />
+                <ScalarProperty Name="productName" ColumnName="productName" />
+                <ScalarProperty Name="StartingPrice" ColumnName="StartingPrice" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="image" ColumnName="image" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="EndBidTime" ColumnName="EndBidTime" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="users">
+            <EntityTypeMapping TypeName="REINMARTModel.user">
+              <MappingFragment StoreEntitySet="users">
+                <ScalarProperty Name="userId" ColumnName="userId" />
+                <ScalarProperty Name="userName" ColumnName="userName" />
+                <ScalarProperty Name="userMail" ColumnName="userMail" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="userPassword" ColumnName="userPassword" />
+                <ScalarProperty Name="userImage" ColumnName="userImage" />
+                <ScalarProperty Name="bagId" ColumnName="bagId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

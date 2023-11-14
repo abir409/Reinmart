@@ -1,0 +1,72 @@
+﻿@model List<OnlineBidder2.Models.product>
+@{
+    ViewBag.Title = "OnGoingBdding";
+
+}
+
+<div class="container py-5">
+<h2>On Goin Bidding</h2>
+
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+
+        <div class="col-12 col-md-4 mb-4">
+            <div class="card h-100">
+                <a href="shop-single.html">
+                    <img src="@Url.Content(product.image)" class="card-img-top" height="200" alt="...">
+                </a>
+                <div class="card-body">
+                    <ul class="list-unstyled d-flex justify-content-between">
+                        <li>
+                            <i class="text-warning fa fa-star"></i>
+                            <i class="text-warning fa fa-star"></i>
+                            <i class="text-warning fa fa-star"></i>
+                            <i class="text-muted fa fa-star"></i>
+                            <i class="text-muted fa fa-star"></i>
+                        </li>
+                        <li class="text-muted text-right">@product.StartingPrice</li>
+                    </ul>
+                    @Html.ActionLink(product.productName, "SingleProduct", new { id = product.productId })
+
+                    <p class="card-text">
+                        @product.Description
+                    </p>
+                    <p class="text-muted">Highest Bid: $256</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+    <nav aria-label="Page navigation example">
+        <ul class="pagination justify-content-center">
+            @{
+                int numberPage = ViewBag.numberPage;
+                int pageCurrent = ViewBag.pageCurrent;
+                if (pageCurrent > 1)
+                {
+                    int prePage = pageCurrent - 1;
+                    <li class="active page-item"><a class="page-link" href="?page=@prePage">PrePage</a></li>
+                }
+                int i;
+                for (i = 1; i <= numberPage; i++)
+                {
+                    if (i == pageCurrent)
+                    {
+                        <li class="active page-item"><a class="page-link" href="?page=@i">@i</a></li>
+                    }
+                    else
+                    {
+                        <li class="page-item"><a class="page-link" href="?page=@i">@i</a></li>
+                    }
+                }
+                if (pageCurrent > 1 && pageCurrent < numberPage)
+                {
+                    int nextPage = pageCurrent + 1;
+                    <li class="active page-item"><a class="page-link" href="?page=@nextPage">NextPage</a></li>
+                }
+            }
+        </ul>
+    </nav>
+    </div>

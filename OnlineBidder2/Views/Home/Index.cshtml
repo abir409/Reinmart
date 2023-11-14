@@ -1,0 +1,129 @@
+﻿@model List<OnlineBidder2.Models.product>
+@{
+    ViewBag.Title = "Home Page";
+    var newProduct = ViewBag.newProduct;
+
+}
+
+
+<!-- Start Banner Hero -->
+<div id="template-mo-zay-hero-carousel" class="carousel slide" data-bs-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="0" class="active"></li>
+        <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="1"></li>
+        <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        @{
+            foreach (var newPro in newProduct)
+            {
+                <div class="carousel-item active">
+                    <div class="container">
+                        <div class="row p-5">
+                            <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
+                                <img class="img-fluid" src="@Url.Content(newPro.image)" alt="">
+                            </div>
+                            <div class="col-lg-6 mb-0 d-flex align-items-center">
+                                <div class="text-align-left align-self-center">
+                                    <h1 class="h1 text-success"><b>ReinMart</b> eCommerce</h1>
+                                    <h3 class="h2">@newPro.productName</h3>
+                                    <p>
+                                        ReinMart is an eCommerce HTML5 CSS template with latest version of Bootstrap 5 (beta 1).
+                                        This template is 100% free provided by <a rel="sponsored" class="text-success" href="https://templatemo.com" target="_blank">TemplateMo</a> website.
+                                        Image credits go to <a rel="sponsored" class="text-success" href="https://stories.freepik.com/" target="_blank">Freepik Stories</a>,
+                                        <a rel="sponsored" class="text-success" href="https://unsplash.com/" target="_blank">Unsplash</a> and
+                                        <a rel="sponsored" class="text-success" href="https://icons8.com/" target="_blank">Icons 8</a>.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            }
+        }
+    </div>
+    <a class="carousel-control-prev text-decoration-none w-auto ps-3" href="#template-mo-zay-hero-carousel" role="button" data-bs-slide="prev">
+        <i class="fas fa-chevron-left"></i>
+    </a>
+    <a class="carousel-control-next text-decoration-none w-auto pe-3" href="#template-mo-zay-hero-carousel" role="button" data-bs-slide="next">
+        <i class="fas fa-chevron-right"></i>
+    </a>
+</div>
+<!-- End Banner Hero -->
+<!-- Start Featured Product -->
+<section class="bg-light">
+    <div class="container py-5">
+        <div class="row text-center py-3">
+            <div class="col-lg-6 m-auto">
+                <h1 class="h1">Products</h1>
+                <p>
+                    Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                    Excepteur sint occaecat cupidatat non proident.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            @foreach (var product in Model)
+            {
+                
+            <div class="col-12 col-md-4 mb-4">
+                <div class="card h-100">
+                    <a href="shop-single.html">
+                        <img src="@Url.Content(product.image)" class="card-img-top" height="200" alt="...">
+                    </a>
+                    <div class="card-body">
+                        <ul class="list-unstyled d-flex justify-content-between">
+                            <li>
+                                <i class="text-warning fa fa-star"></i>
+                                <i class="text-warning fa fa-star"></i>
+                                <i class="text-warning fa fa-star"></i>
+                                <i class="text-muted fa fa-star"></i>
+                                <i class="text-muted fa fa-star"></i>
+                            </li>
+                            <li class="text-muted text-right">@product.StartingPrice</li>
+                        </ul>
+                        @Html.ActionLink(product.productName, "SingleProduct", new { id = product.productId })
+
+                        <p class="card-text">
+                            @product.Description
+                        </p>
+                        <p class="text-muted">@product.status</p>
+                    </div>
+                </div>
+            </div>
+            }
+        </div>
+        <nav aria-label="Page navigation example">
+            <ul class="pagination justify-content-center">
+                @{
+                    int numberPage = ViewBag.numberPage;
+                    int pageCurrent = ViewBag.pageCurrent;
+                    if (pageCurrent > 1)
+                    {
+                        int prePage = pageCurrent - 1;
+                        <li class="active page-item"><a class="page-link" href="?page=@prePage">PrePage</a></li>
+                    }
+                    int i;
+                    for (i = 1; i <= numberPage; i++)
+                    {
+                        if (i == pageCurrent)
+                        {
+                            <li class="active page-item"><a class="page-link" href="?page=@i">@i</a></li>
+                        }
+                        else
+                        {
+                            <li class="page-item"><a class="page-link" href="?page=@i">@i</a></li>
+                        }
+                    }
+                    if (pageCurrent > 1 && pageCurrent < numberPage)
+                    {
+                        int nextPage = pageCurrent + 1;
+                        <li class="active page-item"><a class="page-link" href="?page=@nextPage">NextPage</a></li>
+                    }
+                }
+            </ul>
+        </nav>
+    </div>
+</section>
+<!-- End Featured Product -->

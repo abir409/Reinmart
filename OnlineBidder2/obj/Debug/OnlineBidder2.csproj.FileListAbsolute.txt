@@ -1,0 +1,540 @@
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\OnlineBidder2.dll.config
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\OnlineBidder2.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\OnlineBidder2.pdb
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\csc.exe
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\csc.exe.config
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\csc.rsp
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\csi.exe
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\csi.exe.config
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\csi.rsp
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\System.Buffers.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\System.Memory.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\System.Numerics.Vectors.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\vbc.exe
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\vbc.exe.config
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\vbc.rsp
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\VBCSCompiler.exe
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\Antlr3.Runtime.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\Microsoft.Web.Infrastructure.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\Newtonsoft.Json.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.Helpers.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.Mvc.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.Optimization.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.Razor.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.WebPages.Deployment.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.WebPages.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.WebPages.Razor.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\WebGrease.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\Newtonsoft.Json.xml
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.Helpers.xml
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.Mvc.xml
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.Razor.xml
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.WebPages.xml
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.WebPages.Deployment.xml
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.WebPages.Razor.xml
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\System.Web.Optimization.xml
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\bin\Antlr3.Runtime.pdb
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.AssemblyReference.cache
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CoreCompileInputs.cache
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CopyComplete
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\obj\Debug\OnlineBidder2.dll
+E:\C#\MVC\OnlineBidder2\OnlineBidder2\obj\Debug\OnlineBidder2.pdb
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\OnlineBidder2.dll.config
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\OnlineBidder2.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\OnlineBidder2.pdb
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\csc.exe
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\csc.exe.config
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\csc.rsp
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\csi.exe
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\csi.exe.config
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\csi.rsp
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\System.Buffers.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\System.Collections.Immutable.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\System.Memory.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\System.Numerics.Vectors.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\vbc.exe
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\vbc.exe.config
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\vbc.rsp
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\VBCSCompiler.exe
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\roslyn\VBCSCompiler.exe.config
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\Antlr3.Runtime.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\EntityFramework.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\EntityFramework.SqlServer.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\Microsoft.Web.Infrastructure.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\Newtonsoft.Json.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.Helpers.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.Mvc.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.Optimization.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.Razor.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.WebPages.Deployment.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.WebPages.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.WebPages.Razor.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\WebGrease.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\EntityFramework.xml
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\EntityFramework.SqlServer.xml
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\Newtonsoft.Json.xml
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.Helpers.xml
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.Mvc.xml
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.Razor.xml
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.WebPages.xml
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.WebPages.Deployment.xml
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.WebPages.Razor.xml
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\System.Web.Optimization.xml
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\bin\Antlr3.Runtime.pdb
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.AssemblyReference.cache
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CoreCompileInputs.cache
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CopyComplete
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\obj\Debug\OnlineBidder2.dll
+D:\Rashik\VS Files\ReinMart-main\OnlineBidder2\obj\Debug\OnlineBidder2.pdb
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\OnlineBidder2.dll.config
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\OnlineBidder2.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\OnlineBidder2.pdb
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\csc.exe
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\csc.exe.config
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\csc.rsp
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\csi.exe
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\csi.exe.config
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\csi.rsp
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Buffers.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Collections.Immutable.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Memory.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Numerics.Vectors.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\vbc.exe
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\vbc.exe.config
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\vbc.rsp
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\VBCSCompiler.exe
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\VBCSCompiler.exe.config
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\Antlr3.Runtime.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\EntityFramework.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\EntityFramework.SqlServer.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\Microsoft.Web.Infrastructure.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\Newtonsoft.Json.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Helpers.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Mvc.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Optimization.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Razor.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.WebPages.Deployment.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.WebPages.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.WebPages.Razor.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\WebGrease.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\EntityFramework.xml
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\EntityFramework.SqlServer.xml
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\Newtonsoft.Json.xml
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Helpers.xml
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Mvc.xml
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Razor.xml
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.WebPages.xml
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.WebPages.Deployment.xml
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.WebPages.Razor.xml
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Optimization.xml
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\bin\Antlr3.Runtime.pdb
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.AssemblyReference.cache
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CoreCompileInputs.cache
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CopyComplete
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\obj\Debug\OnlineBidder2.dll
+D:\Rashik\VS Files\ReinMart-main - Copy\OnlineBidder2\obj\Debug\OnlineBidder2.pdb
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\OnlineBidder2.dll.config
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\OnlineBidder2.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\OnlineBidder2.pdb
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\csc.exe
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\csc.exe.config
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\csc.rsp
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\csi.exe
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\csi.exe.config
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\csi.rsp
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Buffers.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Memory.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Numerics.Vectors.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\vbc.exe
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\vbc.exe.config
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\vbc.rsp
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\VBCSCompiler.exe
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\Antlr3.Runtime.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\EntityFramework.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\EntityFramework.SqlServer.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\Microsoft.Web.Infrastructure.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\Newtonsoft.Json.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Helpers.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Mvc.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Optimization.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Razor.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.WebPages.Deployment.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.WebPages.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.WebPages.Razor.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\WebGrease.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\EntityFramework.xml
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\EntityFramework.SqlServer.xml
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\Newtonsoft.Json.xml
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Helpers.xml
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Mvc.xml
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Razor.xml
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.WebPages.xml
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.WebPages.Deployment.xml
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.WebPages.Razor.xml
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\System.Web.Optimization.xml
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\bin\Antlr3.Runtime.pdb
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.AssemblyReference.cache
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CoreCompileInputs.cache
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CopyComplete
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\obj\Debug\OnlineBidder2.dll
+E:\C#\ReinMart-main - Copy\ReinMart-main - Copy\OnlineBidder2\obj\Debug\OnlineBidder2.pdb
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\OnlineBidder2.dll.config
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\OnlineBidder2.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\OnlineBidder2.pdb
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\csc.exe
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\csc.exe.config
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\csc.rsp
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\csi.exe
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\csi.exe.config
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\csi.rsp
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Buffers.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Collections.Immutable.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Memory.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Numerics.Vectors.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\vbc.exe
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\vbc.exe.config
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\vbc.rsp
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\VBCSCompiler.exe
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\VBCSCompiler.exe.config
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\Antlr3.Runtime.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\EntityFramework.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\EntityFramework.SqlServer.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\Microsoft.Web.Infrastructure.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\Newtonsoft.Json.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Helpers.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Mvc.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Optimization.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Razor.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.WebPages.Deployment.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.WebPages.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.WebPages.Razor.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\WebGrease.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\EntityFramework.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\EntityFramework.SqlServer.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\Newtonsoft.Json.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Helpers.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Mvc.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Razor.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.WebPages.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.WebPages.Deployment.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.WebPages.Razor.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Optimization.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\Antlr3.Runtime.pdb
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.AssemblyReference.cache
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CoreCompileInputs.cache
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CopyComplete
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\obj\Debug\OnlineBidder2.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\obj\Debug\OnlineBidder2.pdb
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\OnlineBidder2.dll.config
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\OnlineBidder2.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\OnlineBidder2.pdb
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\csc.exe
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\csc.exe.config
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\csc.rsp
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\csi.exe
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\csi.exe.config
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\csi.rsp
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Buffers.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Memory.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Numerics.Vectors.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\vbc.exe
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\vbc.exe.config
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\vbc.rsp
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\VBCSCompiler.exe
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\Antlr3.Runtime.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\EntityFramework.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\EntityFramework.SqlServer.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\Microsoft.Web.Infrastructure.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\Newtonsoft.Json.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Helpers.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Mvc.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Optimization.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Razor.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.WebPages.Deployment.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.WebPages.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.WebPages.Razor.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\WebGrease.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\EntityFramework.xml
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\EntityFramework.SqlServer.xml
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\Newtonsoft.Json.xml
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Helpers.xml
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Mvc.xml
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Razor.xml
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.WebPages.xml
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.WebPages.Deployment.xml
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.WebPages.Razor.xml
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\System.Web.Optimization.xml
+E:\C#\CSE3200\ReinMart\OnlineBidder2\bin\Antlr3.Runtime.pdb
+E:\C#\CSE3200\ReinMart\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.AssemblyReference.cache
+E:\C#\CSE3200\ReinMart\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CoreCompileInputs.cache
+E:\C#\CSE3200\ReinMart\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CopyComplete
+E:\C#\CSE3200\ReinMart\OnlineBidder2\obj\Debug\OnlineBidder2.dll
+E:\C#\CSE3200\ReinMart\OnlineBidder2\obj\Debug\OnlineBidder2.pdb
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\OnlineBidder2.dll.config
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\OnlineBidder2.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\OnlineBidder2.pdb
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\csc.exe
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\csc.exe.config
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\csc.rsp
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\csi.exe
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\csi.exe.config
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\csi.rsp
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Buffers.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Memory.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Numerics.Vectors.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\vbc.exe
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\vbc.exe.config
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\vbc.rsp
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\VBCSCompiler.exe
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\Antlr3.Runtime.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\EntityFramework.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\EntityFramework.SqlServer.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\Microsoft.Web.Infrastructure.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\Newtonsoft.Json.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Helpers.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Mvc.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Optimization.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Razor.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.WebPages.Deployment.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.WebPages.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.WebPages.Razor.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\WebGrease.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\EntityFramework.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\EntityFramework.SqlServer.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\Newtonsoft.Json.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Helpers.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Mvc.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Razor.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.WebPages.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.WebPages.Deployment.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.WebPages.Razor.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Optimization.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\Antlr3.Runtime.pdb
+E:\C#\ReinMart-Rashik\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.AssemblyReference.cache
+E:\C#\ReinMart-Rashik\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CoreCompileInputs.cache
+E:\C#\ReinMart-Rashik\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CopyComplete
+E:\C#\ReinMart-Rashik\OnlineBidder2\obj\Debug\OnlineBidder2.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\obj\Debug\OnlineBidder2.pdb
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\Stripe.net.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Threading.Tasks.Extensions.dll
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\Stripe.net.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\C#\ReinMart-Rashik\OnlineBidder2\bin\System.Threading.Tasks.Extensions.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\OnlineBidder2.dll.config
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\OnlineBidder2.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\OnlineBidder2.pdb
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\csc.exe
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\csc.exe.config
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\csc.rsp
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\csi.exe
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\csi.exe.config
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\csi.rsp
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Buffers.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Collections.Immutable.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Memory.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Numerics.Vectors.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\vbc.exe
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\vbc.exe.config
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\vbc.rsp
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\VBCSCompiler.exe
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\roslyn\VBCSCompiler.exe.config
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\Antlr3.Runtime.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\EntityFramework.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\EntityFramework.SqlServer.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\Microsoft.Web.Infrastructure.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\Newtonsoft.Json.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\Stripe.net.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Threading.Tasks.Extensions.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Helpers.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Mvc.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Optimization.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Razor.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.WebPages.Deployment.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.WebPages.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.WebPages.Razor.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\WebGrease.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\EntityFramework.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\EntityFramework.SqlServer.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\Newtonsoft.Json.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\Stripe.net.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Threading.Tasks.Extensions.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Helpers.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Mvc.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Razor.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.WebPages.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.WebPages.Deployment.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.WebPages.Razor.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\System.Web.Optimization.xml
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\bin\Antlr3.Runtime.pdb
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.AssemblyReference.cache
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CoreCompileInputs.cache
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\obj\Debug\OnlineBidder2.csproj.CopyComplete
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\obj\Debug\OnlineBidder2.dll
+D:\Rashik\VS Files\ReinMart-Rashik\OnlineBidder2\obj\Debug\OnlineBidder2.pdb
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\Stripe.net.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Threading.Tasks.Extensions.dll
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\Stripe.net.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Rashik\VS Files\CSE3200\ReinMart\OnlineBidder2\bin\System.Threading.Tasks.Extensions.xml

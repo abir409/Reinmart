@@ -1,0 +1,66 @@
+﻿@model IEnumerable<OnlineBidder2.Models.product>
+
+@{
+    ViewBag.Title = "Index";
+    
+}
+<div class="container mt-4">
+    <h2>All Products</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.productName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartingPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndBidTime)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.productName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StartingPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    <img src="@Url.Content(item.image)" alt="Not found" width="80" height="80" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndBidTime)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.productId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.productId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.productId })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

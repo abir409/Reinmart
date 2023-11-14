@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="REINMARTModelStoreContainer" CdmEntityContainer="REINMARTEntities">
+    <EntitySetMapping Name="Bags">
+      <EntityTypeMapping TypeName="REINMARTModel.Bag">
+        <MappingFragment StoreEntitySet="Bag">
+          <ScalarProperty Name="bagId" ColumnName="bagId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="placeBids">
+      <EntityTypeMapping TypeName="REINMARTModel.placeBid">
+        <MappingFragment StoreEntitySet="placeBid">
+          <ScalarProperty Name="bidId" ColumnName="bidId" />
+          <ScalarProperty Name="BidDate" ColumnName="BidDate" />
+          <ScalarProperty Name="HighestBid" ColumnName="HighestBid" />
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="productId" ColumnName="productId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="products">
+      <EntityTypeMapping TypeName="REINMARTModel.product">
+        <MappingFragment StoreEntitySet="product">
+          <ScalarProperty Name="productId" ColumnName="productId" />
+          <ScalarProperty Name="productName" ColumnName="productName" />
+          <ScalarProperty Name="StartingPrice" ColumnName="StartingPrice" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="image" ColumnName="image" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="EndBidTime" ColumnName="EndBidTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="REINMARTModel.user">
+        <MappingFragment StoreEntitySet="users">
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="userMail" ColumnName="userMail" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="userPassword" ColumnName="userPassword" />
+          <ScalarProperty Name="userImage" ColumnName="userImage" />
+          <ScalarProperty Name="bagId" ColumnName="bagId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
